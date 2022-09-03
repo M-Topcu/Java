@@ -12,4 +12,6 @@ public abstract class C01 {
     Bir methodun basina abstract yazarsak bu methodun child classlar icin bir standart oldugunu deklare ederiz
     ve method bodysine gerek olmaz, body koyarsak altini cizer
      */
+
+
 }
